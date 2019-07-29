@@ -1,4 +1,4 @@
-# CF-redirect-cookie-adwords
+# Cloudflare Redirect with Set Cookie capability for Adwords Conversion tracking
 
 ### Premise
 Retail owners publish and push ads that consist of new articles and blogs that talk about their products. 
