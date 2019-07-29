@@ -15,6 +15,6 @@ Third Party Tools might offer the same solution but might be a bit expensive to 
 
 ## CloudFlare Worker Solution
 
-<https://redirect.akhil.workers.dev?finalurl="Enter Final URL for the arctile"&utm_camp="Enter the cookie you want to set">
+`https://redirect.akhil.workers.dev?finalurl="Enter Final URL for the arctile"&utm_camp="Enter the cookie you want to set"`
 
 example: https://redierct.akhil.workers.dev?finalurl=https%3A%2F%2Ftimesofindia.indiatimes.com%2Ftrend-tracking%2Fev-startups-crank-up-efforts-as-segments-mood-turns-electric%2Farticleshow%2F70416317.cms&utm_camp=akhilcookie
