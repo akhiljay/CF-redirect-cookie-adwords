@@ -1,12 +1,12 @@
 # Cloudflare Redirect with Set Cookie capability for Adwords Conversion tracking
 
 ### Premise
-Retail owners publish and push ads that consist of new articles and blogs that talk about their products. 
+Retail owners publish and push ads that consist of news articles and blogs that talk about their products. 
 For example: Uber Eats could create an ad with a forbes article that talks about how great uber eats is. 
 
 ### Problem
-Retail owners are unable to track users who has clicked on their ads when the ad content itself is for third party site.
-For example: As the owner of Uber Eats I would like to ensure that I know when a user who has clicked on those ads visit my site so I can either target them with better pricing or better offers. 
+Retail owners are unable to track users who has clicked on these ads when the ad content itself is for third party site.
+For example: As the owner of Uber Eats I would like to ensure that I know when a user who has clicked on these ads visit my site so I can either target them with better pricing or better offers. 
 
 ### Solution 
 
