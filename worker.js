@@ -27,14 +27,14 @@ async function handleRequest(request) {
 
 //conditionally add a campaign cookie you wish to add to the url 
 var utmcookie = getParameterByName('utm_camp')
+var utmcookiedomain = 'campagincookie='+ utmcookie + '; Domain=*.akhil.workers.dev; Max-Age=40000'
 console.log(utmcookie)
 //issue the redirect 
-
   return new Response('', {
 			status: 302,
 			headers: {
             Location: finalURL,
-            'Set-Cookie':utmcookie,
+            'Set-Cookie':utmcookiedomain,
       }
 		})
 
